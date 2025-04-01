@@ -3,7 +3,7 @@ import EventCard from "../Component/EventCard";
 import EventForm from "../Component/EventForm";
 import Filter from "../Component/Filter";
 import { motion } from "framer-motion";
-import "../styles/animations.css";
+import "../Styles/animations.css";
 
 const Events = () => {
   const [events, setEvents] = useState([
