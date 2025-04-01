@@ -4,8 +4,8 @@ import Home from "./pages/Home";
 import Events from "./pages/Events";
 import Header from "./Component/Header";
 import "./App.css";
-import "./styles/animations.css";
-import "./styles/global.css";
+import "./Styles/animations.css";
+import "./Styles/global.css";
 
 function App() {
   return (
