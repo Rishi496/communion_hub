@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import "../styles/animations.css";
+import "../Styles/animations.css";
 
 const Home = () => {
   return (
